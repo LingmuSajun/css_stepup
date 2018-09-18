@@ -1,0 +1,11 @@
+body {
+  background-color: #ccc;
+}
+
+#example {
+  color: #FF0000;
+}
+
+.completed {
+  text-decoration: line-through;
+}
